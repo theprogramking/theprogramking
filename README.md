@@ -15,7 +15,7 @@ I am a passionate and experienced full-stack developer with expertise in both fr
 - **Backend Development:**
   - Node.js / Express.js
   - Python / Django / Flask
-  - 
+    
 - **Database Technologies:**
   - SQL (MySQL, PostgreSQL, SQLite)
   - NoSQL (MongoDB, Firebase)
