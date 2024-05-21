@@ -10,38 +10,23 @@ I am a passionate and experienced full-stack developer with expertise in both fr
   - HTML5
   - CSS3 / SASS / LESS
   - JavaScript (ES6+)
-  - React.js / Vue.js / Angular
+  - React.js / Vue.js 
   
 - **Backend Development:**
   - Node.js / Express.js
   - Python / Django / Flask
-  - Ruby on Rails
-  - Java / Spring Boot
-  
+  - 
 - **Database Technologies:**
   - SQL (MySQL, PostgreSQL, SQLite)
   - NoSQL (MongoDB, Firebase)
   
 - **Other Technologies:**
   - RESTful APIs
-  - GraphQL
   - Git / GitHub / GitLab
-  - Docker
   - AWS / Firebase / Heroku
-  
-- **Tools & Practices:**
-  - Agile Development (Scrum / Kanban)
-  - Test-Driven Development (TDD)
-  - Continuous Integration / Continuous Deployment (CI/CD)
-  - DevOps
-  
 
 ## Contact Me
 
 - **Email:** LukeShimkus@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/lukeshimkus/
 
-
-## Languages
-
-- **English:** Native proficiency
