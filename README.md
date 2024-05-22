@@ -29,5 +29,5 @@ I am a passionate and experienced full-stack developer with expertise in both fr
 
 - **Email:** LukeShimkus@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/lukeshimkus/
-- **StackOverflow:** https://stackoverflow.com/users/3272706/programking
+- **StackOverflow:** https://stackoverflow.com/users/3272706/programking?tab=profile
 
