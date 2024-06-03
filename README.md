@@ -15,20 +15,20 @@ I'm a Full Stack Developer with a passion for building web applications using Ja
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"> &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"> &nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🔥 My Stats
-<div align="center">
+
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=theprogramking&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theprogramking&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukeshimkus/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luke.shimkus@gmail.com)
 
 ## 🌱 Currently Learning
 
