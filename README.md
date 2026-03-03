@@ -1,5 +1,5 @@
 
-# Hi there, I'm Luke Shimkus 👋
+# Hi there, I'm Luke S. 👋
 
 I'm a Full Stack Developer with a passion for building web applications using JavaScript and its modern frameworks and libraries. I have experience in both front-end and back-end development, and I love creating efficient and scalable solutions.
 
